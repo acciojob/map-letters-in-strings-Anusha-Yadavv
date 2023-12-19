@@ -1,7 +1,8 @@
 //your JS code here. If required.
 
 function mapLetters(string) {
-	let obj={};
+		let obj={};
+
 	let n=string.length;
 	for(let i=0;i<n;i++){
 		let letter=string[i];

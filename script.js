@@ -18,4 +18,4 @@ function mapLetters(string) {
 }
 
 const string = prompt("Enter string.");
-alert(string);
+alert(mapLetters(string));
